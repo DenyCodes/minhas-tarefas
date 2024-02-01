@@ -10,10 +10,10 @@ const initialState: TarefasState = {
   itens: [
     {
       id: 1,
-      descricao: 'elonmusk@twitter.com',
+      descricao: 'denisdev3loper@gmail.com',
       prioridade: enums.Prioridade.URGENTE,
       status: enums.Status.CONCLUIDA,
-      titulo: 'Elon Musk',
+      titulo: 'Denis Oliveira',
       telefone: 21993450137
     },
     {
